@@ -9,8 +9,8 @@
 ## Challenges 
 (Ordered by complexity)
 
-* [7 day weather forecast (api/json/)](https://github.com/BinnyK/cfa-ex-atm)
-* [Current Weather](https://github.com/BinnyK/cfa-ex-atm)
+* [7 day weather forecast](https://github.com/BinnyK/cfa-ex-weather-forecast)
+* [Current Weather](https://github.com/BinnyK/cfa-ex-current-temp)
 * [Weather (simple)](https://github.com/BinnyK/cfa-ex-temperature)
 * [ATM (with classes)](https://github.com/BinnyK/cfa-ex-atm-v2)
 * [ATM (simple)](https://github.com/BinnyK/cfa-ex-atm)
