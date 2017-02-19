@@ -1,10 +1,15 @@
 # CFA Project Directory
 
 
-**Project 1:**
+## Projects
+1.
+2.
+3.
 
 
-**Project 2:**
+**Challenges** 
+(more complex up top)
 
-
-**Project 3:**
+* [ATM (simple)](https://github.com/BinnyK/cfa-ex-atm)
+* [ATM (with classes)](https://github.com/BinnyK/cfa-ex-atm)
+* [Weather (terminal-table)](https://github.com/BinnyK/cfa-ex-atm)
