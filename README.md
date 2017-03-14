@@ -14,11 +14,11 @@
 
 ## Exercises 
 (Ordered by date)
-(* = notable)
+(*** = notable)
 
-* [Grav website design*](https://github.com/BinnyK/cfa-ex-grav_design)
+* [Grav website design***](https://github.com/BinnyK/cfa-ex-grav_design)
 * [Pair TDD example](https://github.com/BinnyK/cfa-ex-pair-tdd)
-* [7 day weather forecast](https://github.com/BinnyK/cfa-ex-weather-forecast)
+* [7 day weather forecast***](https://github.com/BinnyK/cfa-ex-weather-forecast)
 * [Current Weather](https://github.com/BinnyK/cfa-ex-current-temp)
 * [Weather (simple)](https://github.com/BinnyK/cfa-ex-temperature)
 * [ATM (with classes)](https://github.com/BinnyK/cfa-ex-atm-v2)
