@@ -11,9 +11,12 @@
 
 3. 
 
+
 ## Exercises 
 (Ordered by date)
+(* = notable)
 
+* [Grav website design*](https://github.com/BinnyK/cfa-ex-grav_design)
 * [Pair TDD example](https://github.com/BinnyK/cfa-ex-pair-tdd)
 * [7 day weather forecast](https://github.com/BinnyK/cfa-ex-weather-forecast)
 * [Current Weather](https://github.com/BinnyK/cfa-ex-current-temp)
