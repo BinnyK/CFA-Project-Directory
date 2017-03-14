@@ -2,13 +2,16 @@
 
 
 ## Projects
+
 1. Portfolio website
   * [Static site](http://binnyk.github.io)
   * [Rails app](http://binnyk.herokuapp.com)
+
 2. 
+
 3. 
 
-## Challenges 
+## Exercises 
 (Ordered by date)
 
 * [Pair TDD example](https://github.com/BinnyK/cfa-ex-pair-tdd)
