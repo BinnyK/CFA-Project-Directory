@@ -3,7 +3,7 @@
 
 ## Projects
 1. Portfolio website
-  *[Static site](http://binnyk.github.io)
+  * [Static site](http://binnyk.github.io)
   * [Rails app](http://binnyk.herokuapp.com)
 2. 
 3. 
